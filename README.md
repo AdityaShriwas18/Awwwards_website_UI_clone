@@ -1,4 +1,4 @@
-# JavaScript and Projects
+# Website's UI Clone
 
 This collection showcases various Awwwarded website's UI clone projects, including clones of some other website UIs for web development exercises.
 
