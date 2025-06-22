@@ -19,21 +19,21 @@ Here are some of the key projects included in this repository:
 ### Award-Winning Website UI Clones
 
 1. **Cynthia Ugwu**: 
-   - **Link**: [Site Clone 1](https://cynthiaugwu.wuaze.com/)
+   - **Link**: [Site Clone 1](https://cynthia-ugwu-com.vercel.app/)
 
 2. **Two Good CO**: 
    - **Link**: [Site Clone 2](https://adityashriwas.netlify.app/project1/)
 
 3. **Sidcup family golf**: 
-   - **Link**: [Site Clone 3](https://sidcup-family-golf-website-clone.onrender.com/)
+   - **Link**: [Site Clone 3](https://sid-cup-family-golf-website-clone.vercel.app/)
 
 ### Other Projects
 
 1. **Netflix UI Clone**: 
-   - **Link**: [Project 1](https://adityashriwas.netlify.app/netflix-clone/)
+   - **Link**: [Project 1](https://netflix-clone-xi-ecru.vercel.app/)
 
 2. **Amazon UI Clone**: 
-   - **Link**: [Project 2](https://adityashriwas18.github.io/Amazon-Clone/)
+   - **Link**: [Project 2](https://amazon-clone-five-ruddy-11.vercel.app/)
 
 ## Contributing
 
